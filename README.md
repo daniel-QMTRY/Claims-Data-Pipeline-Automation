@@ -1,5 +1,3 @@
-##Claims-Data-Pipeline-Automation
-
 ````markdown
 # Claims Data Pipeline Automation 🚀💉
 
